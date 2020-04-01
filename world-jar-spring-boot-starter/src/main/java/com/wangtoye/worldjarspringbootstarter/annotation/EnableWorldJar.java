@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
 import java.lang.annotation.*;
 
 /**
- * @author wangye
+ * @author wangtoye
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)
